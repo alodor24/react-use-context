@@ -1,0 +1,11 @@
+.card {
+    text-align: center;
+    border: none;
+    box-shadow: 0 5px 15px 0px rgb(0 0 0 / 20%);
+}
+
+@media(max-width: 767px) {
+    .card {
+        margin-top: 35px;
+    }
+}
